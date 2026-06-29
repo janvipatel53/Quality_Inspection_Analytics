@@ -20,7 +20,10 @@ Unlike basic inspection tools, this platform also stores historical inspection d
 * Recommendation generation
 
 ---
+## Live Demo
 
+🔗 [Launch Web App](https://qualityinspectionanalytics.streamlit.app/)
+---
 ## Features
 
 * Automated defect detection using OpenCV
